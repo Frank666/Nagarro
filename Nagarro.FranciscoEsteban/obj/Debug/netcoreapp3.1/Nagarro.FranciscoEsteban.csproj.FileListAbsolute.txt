@@ -1,0 +1,13 @@
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.exe
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.deps.json
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.runtimeconfig.json
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.runtimeconfig.dev.json
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.dll
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\bin\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.pdb
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.dll
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.pdb
+C:\Users\Frank\source\repos\Nagarro.FranciscoEsteban\Nagarro.FranciscoEsteban\obj\Debug\netcoreapp3.1\Nagarro.FranciscoEsteban.genruntimeconfig.cache
